@@ -1,5 +1,5 @@
 import Style from './lib/Style.js';
-import Box from './lib/Box.js';
+import Square from './lib/Square.js';
 
 new Style();
-new Box();
+new Square();
