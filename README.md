@@ -8,3 +8,8 @@ Idée d'améliorations :
   - réparation de bug potentiel.
  
  NB : Le tout en js.
+ 
+ 
+#Debutant
+#apprenti
+#Beginner
