@@ -9,7 +9,7 @@ Idée d'améliorations :
  
  NB : Le tout en js.
  
- 
+ For : 
 #Debutant
 #apprenti
 #Beginner
